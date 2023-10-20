@@ -1,0 +1,6 @@
+wikipedia
+openai
+langchain
+streamlit
+python-dotenv
+numexpr
